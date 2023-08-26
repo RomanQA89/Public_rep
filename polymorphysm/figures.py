@@ -1,4 +1,5 @@
 import math
+
 class Rectangle:
     def __init__(self, a, b):
         self.a = a
