@@ -9,7 +9,7 @@ class Clients:
 client1 = Clients("Ivan", "Petrov", "Ypha")
 client2 = Clients("Pavel", "Serov", "Vegas")
 client3 = Clients("Donald", "Fazer", "Chicago")
-client4 = Clients("Fil", "Newman", "Boston")
+client4 = Clients("Fill", "Newman", "Boston")
 
 list_of_clients = [client1, client2, client3, client4]
 
