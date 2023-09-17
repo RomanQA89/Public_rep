@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Projects\Skillfactory\Public_rep\Bot\venv"
+VIRTUAL_ENV="C:\Projects\Skillfactory\Public_rep\CoinBot\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
